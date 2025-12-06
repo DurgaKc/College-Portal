@@ -18,7 +18,8 @@ import Curriculum from '../Pages/Curriculum'
 import Gallery from '../Pages/Gallery'
 import Contact from '../Pages/Contact'
 import Login from '../Pages/Login'
-import Adminpage from '../Pages/adminpage'
+import Admin from '../Pages/Admin'
+
 
 
 const Routing = () => {
@@ -46,7 +47,7 @@ const Routing = () => {
         <Route path='/gallery' element={<Gallery/>} />
         <Route path='/contact' element={<Contact/>} />
         <Route path='/login' element={<Login/>} />
-        <Route path='/adminpage' element={<Adminpage/>} />
+        <Route path='/admin' element={<Admin/>} />
 
       </Routes>
       </BrowserRouter>
