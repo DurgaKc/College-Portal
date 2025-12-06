@@ -43,7 +43,7 @@ const Footer = () => {
         <p>
           Developed &amp; Managed By{" "}
           <a
-            href="https://www.facebook.com/dur.gaa.kc.438763/"
+            href="https://www.linkedin.com/in/durga-khanal/"
             className="text-red-600 hover:underline"
           >
             @DurgaKc
